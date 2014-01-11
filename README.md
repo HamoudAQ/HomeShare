@@ -10,4 +10,6 @@ it will detect the server ip and download the file
 
 * NOTE *
 ========
-the optional arguments PORT is not yet implemented
+the optional arguments PORT is not yet implemented so you could use it as the following <br>
+<code> python Broadcaster.py filename </code><br>
+<code> python Download.py SERVER_IP</code> <br>
