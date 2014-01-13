@@ -66,6 +66,8 @@ if __name__ == '__main__':
                 pass
             else:
                 print '[-]Server or Distributor not found '
-        sys.exit(0)
+                sys.exit(0)
+    else:
+        Server(sys.argv[1])
 
 
